@@ -1,0 +1,57 @@
+header{
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(33, 0, 65);
+    color: white);
+    font-size: 15px;
+    font-style: bold;
+     }
+    
+        h2{
+    background: rgb(33, 0, 65);
+    padding: 15px;
+    font-size: 15px;
+    display: block;
+      }
+    
+    
+        ul{
+            background-color: rgba(33, 0, 65, 0.521);
+        }
+        
+        
+        ul li{display: inline-block;
+         vertical-align: top;
+            font-size: 15px;
+            font-weight: bold;}
+      
+    
+    img{border: 1px solid rgb(0, 0, 0);
+        right: ;
+    }
+    
+    
+        a{padding: 15px;
+     border: 5px;
+     font-size: 15px;
+     }
+    
+    iframe{
+        width: 800px;
+        height: 450px;
+        vertical-align: middle;
+    }
+    
+    footer{
+        background: grey;
+        color: white;
+        text-align: center;
+        font-size: 10px;
+    }
+    
+    a1{
+        font-size: 15px;
+        background-color: rgba(33, 0, 65, 0.521);
+        
+    }
+    
